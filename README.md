@@ -1,2 +1,2 @@
 # Skill-Assessment-TEE-Deep-Learning
-Deep learning based skill assessment in transoesophageal echocardiography using Python and Tensorflow
+Deep learning based skill assessment in TEE using Python and Tensorflow
